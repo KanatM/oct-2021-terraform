@@ -32,13 +32,3 @@ override.tf.json
 IAM/.terraform.lock.hcl
 Class2/.terraform.lock.hcl
 Class2/module/.terraform.lock.hcl
-Class5/.terraform.lock.hcl
-Test/.terraform.lock.hcl
-Team1/.terraform.lock.hcl
-Team2/.terraform.lock.hcl
-Team1/backend.tf
-Kubernetes/EKS/.terraform.lock.hcl
-SDLC/dev.tfplan
-SDLC/farrukh.tfplan
-SDLC/qa.tfplan
-SDLC/stage.tfplan
